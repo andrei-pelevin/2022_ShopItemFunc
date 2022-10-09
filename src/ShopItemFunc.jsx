@@ -1,9 +1,9 @@
+import React from 'react';
 
-const ShopItemFunc = () => {
-  
+export default function ShopItemFunc() {
+  console.log('test');
+  return (
+    <div>privet</div>
+    
+  )
 }
-
-
-
-export default ShopItemFunc
-
